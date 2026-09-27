@@ -1,0 +1,26 @@
+body { 
+  background-color: "white";
+color: "black"
+font-family: "Trebuchet MS";Arial;
+font-size: 16px;
+}
+header {
+background-color:"black";
+padding: 20px;
+}
+h1 {
+color:"blue";
+font-size 37px;
+font-weight: "bold";
+}
+nav {
+    background-color: "black";
+    padding: 11px;
+}
+h2 {
+  color: "blue";
+  font-size: 25px;
+}
+p {
+ line-height: 2;
+}
