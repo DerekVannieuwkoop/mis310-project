@@ -34,10 +34,10 @@ p {
   flex-wrap: wrap;
   justify-content:space-evenly;
 }
-h2 {
+.services-grid {
 display: grid;
-grid-template-columns: repeat (3, 1fr);
-gap: 21 px;
+grid-template-columns: repeat(3, 1fr);
+gap: 21px;
 }
 @media (max-width: 700px) {
   .services-grid {
