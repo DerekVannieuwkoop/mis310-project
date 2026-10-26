@@ -34,7 +34,7 @@ p {
   flex-wrap: wrap;
   justify-content:space-evenly;
 }
-.services {
+h2 {
 display: grid;
 grid-template-columns: repeat (3, 1fr);
 gap: 21 px;
