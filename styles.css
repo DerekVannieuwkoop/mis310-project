@@ -74,3 +74,12 @@ cursor: pointer;
 .hidden {
   display: none;
 }
+#process-button {
+  background-color: blue;
+  color: white;
+  padding: 12px 21px;
+  border: none;
+  border-radius: 9px;
+cursor: pointer;
+font-size: 18px;
+}
