@@ -1,6 +1,6 @@
-const button = documment.querySelector("#Processbutton");
+const button = document.querySelector("#process-button");
 const process = document.querySelector("_____");
-button.addEventlistener("click", function() {
-    process.classlist.toggle("____");
+button.addEventListener("click", function() {
+  process.classList.toggle("____");
     console.log("Design process button clicked");
-}
+});
