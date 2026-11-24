@@ -71,3 +71,6 @@ border: none;
 margin-top: 15px;
 cursor: pointer;
 }
+.hidden {
+  display: none;
+}
